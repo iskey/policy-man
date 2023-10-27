@@ -18,7 +18,7 @@ changelog:
   # - `github-native`: uses the GitHub release notes generation API, disables the groups feature.
   #
   # Default: 'git'
-  # use: github
+  use: github
 
   filters:
     # Commit messages matching the regexp listed here will be removed from
